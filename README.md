@@ -60,11 +60,15 @@ VITE_PINATA_SECRET_KEY=your_secret_key_here
 
 The app will automatically prompt you to add the network, or you can add it manually:
 
-- **Network Name**: BlockDAG Awakening Testnet
-- **RPC URL**: https://rpc-testnet.blockdag.network
-- **Chain ID**: 1043 (0x413)
-- **Currency Symbol**: BDAG
-- **Block Explorer**: https://explorer-testnet.blockdag.network
+- **Network Name:** Awakening Testnet
+- **Chain ID:** 1043
+- **RPC URL:** [https://rpc.awakening.bdagscan.com](https://rpc.awakening.bdagscan.com/)
+- **Relayer RPC URL:** relay.awakening.bdagscan.com
+- **Explorer:** [https://awakening.bdagscan.com](https://awakening.bdagscan.com/)
+- **Currency Symbol:** BDAG
+- **Faucet:** https://awakening.bdagscan.com/faucet
+
+**External RPC (via NowNodes):** https://nownodes.io/nodes/bdag-blockdag
 
 ### 4. Run the Application
 
