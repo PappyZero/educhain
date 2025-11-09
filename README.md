@@ -1,4 +1,4 @@
-# EduChain - Decentralized Academic Credential System
+# EduChain: Decentralized Credential Verification and Micro-Certification Platform
 
 A blockchain-based academic transcript issuance and verification system built on the **BlockDAG Awakening Testnet** (Chain ID: 1043). Universities can issue tamper-proof credentials as NFTs, and employers or institutions can instantly verify them.
 
